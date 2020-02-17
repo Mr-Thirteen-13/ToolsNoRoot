@@ -35,12 +35,17 @@ white='\e[1;37m'
 yellow='\e[1;33m'
 sleep 3
 echo "\033[32;1m
-▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇
-█-AUTHOR=ThuanTiggaBellass                        █
-█-Fb=https://www.facebook.com/100045683043717     █
-█-Team=Hacker Indonesia_Team                      █
-█-Email=Achenkbrankem218@gmail.com                █
-▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇
+╔════════════════════════════════════════════════════════════╗
+║                                                                 ║
+║*AUTHOR=ThuanTiggaBellass                                        ║
+║                                                                 ║
+║*Fb=https://www.facebook.com/100045683043717                     ║
+║                                                                 ║
+║*Team=Hacker Indonesia_Team                                      ║
+║                                                                 ║
+║*Email=Achenkbrankem218@gmail.com                                ║
+║                                                                 ║
+╚════════════════════════════════════════════════════════════╝
 "
 sleep 3
 
@@ -50,29 +55,29 @@ read p;
 sleep 3
 
 echo "\033[32;1m
-#-KUMPULAN TOOLS 2019 NO ROOT-#
-______________________________
-|1.hack wifi (no Root)       |
-|2.sadap Wa (No Root)        |
-|3.hack lampu lalu Lintas    |
-|4.hack Facebook Target      |
-|5.hack Instagram            |
-|6.hack Hp Orang             |
-|7.spam Sms Unlimited        |
-|8.hack Camera               |
-|9.install Metasploit        |
-|10.DDOS                     |
-|11.hack lampu Cafe          |
-|12.DOS                      |
-|13.Sql Injetion             |
-|14.Admin Finder             |
-|15.Root Hp                  |
-|16.Hack Atm                 |
-|17.Hack Satelit             |
-|18.Pelacack Penipu          |
-|19.Hack CCTV                |
-|20.pembuat panas Hp Orang   |
-|____________________________|
+#-KUMPULAN TOOLS 2020 NO ROOT-#
+╔════════════════════════════╗
+║1.hack wifi (no Root)       ║
+║2.sadap Wa (No Root)        ║
+║3.hack lampu lalu Lintas    ║
+║4.hack Facebook Target      ║
+║5.hack Instagram            ║
+║6.hack Hp Orang             ║
+║7.spam Sms Unlimited        ║
+║8.hack Camera               ║
+║9.install Metasploit        ║
+║10.DDOS                     ║
+║11.hack lampu Cafe          ║
+║12.DOS                      ║
+║13.Sql Injetion             ║
+║14.Admin Finder             ║
+║15.Root Hp                  ║
+║16.Hack Atm                 ║
+║17.Hack Satelit             ║
+║18.Pelacack Penipu          ║
+║19.Hack CCTV                ║
+║20.pembuat panas Hp Orang   ║
+╚════════════════════════════╝
 "
 echo "\033[32;1mPilih No : "
 read p;
