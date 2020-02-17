@@ -1,5 +1,5 @@
 #!/system/xbin/bash
-#AUTHOR:MR CROOT
+#AUTHOR:ThuanTiggaBellass
 #Github:https://github.com/Mr-Thirteen-13
 #Ngapain Lo Sampai Sini Mau Recode! Gua Doain Orang Tua Lu Meninggal Dan Lu mandul Sampai Mati.boleh Recode Tapi Hargai Author Njeng
 #Bersihkan Layar
@@ -126,3 +126,5 @@ sleep 3
 toilet -f standard -F gay "LOE"
 sleep 3
 toilet -f standard -F gay "BANGSAT"
+
+
