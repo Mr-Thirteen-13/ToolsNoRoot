@@ -36,15 +36,15 @@ yellow='\e[1;33m'
 sleep 3
 echo "\033[32;1m
 ╔════════════════════════════════════════════════════════════╗
-║                                                                 ║
-║*AUTHOR=ThuanTiggaBellass                                        ║
-║                                                                 ║
-║*Fb=https://www.facebook.com/100045683043717                     ║
-║                                                                 ║
-║*Team=Hacker Indonesia_Team                                      ║
-║                                                                 ║
-║*Email=Achenkbrankem218@gmail.com                                ║
-║                                                                 ║
+║                                                             ║
+║*AUTHOR=ThuanTiggaBellass                                    ║
+║                                                             ║
+║*Fb=https://www.facebook.com/100045683043717                 ║
+║                                                             ║
+║*Team=Hacker Indonesia_Team                                  ║
+║                                                             ║
+║*Email=Achenkbrankem218@gmail.com                            ║
+║                                                             ║
 ╚════════════════════════════════════════════════════════════╝
 "
 sleep 3
