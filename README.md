@@ -19,3 +19,5 @@ $git clone https://github.com/Mr-Thirteen-13/Tools-noRoot
 $cd Tools-noRoot
 
 $sh Nitah.sh
+
+#Hati hati pakai tools ini #gunakan dengan bijak #atau akan merugikan diri sendiri dan orang lain
