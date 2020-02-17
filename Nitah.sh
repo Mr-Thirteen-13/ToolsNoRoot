@@ -117,7 +117,7 @@ echo "Selamat Data Kalian Saya Curi "
 sleep 4
 echo "Gak Senang Lo Njenk"
 sleep 4
-echo "Hubungi Gua reyspeed01@gmail.com"
+echo "Hubungi Gua AchenkBrankem218@gmail.com"
 sleep 3
 echo "____________________________________"
 sleep 4
