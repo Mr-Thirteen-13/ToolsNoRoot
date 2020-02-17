@@ -49,7 +49,7 @@ echo "\033[32;1m
 "
 sleep 3
 
-echo "\033[32;1mTULIS= ThuanTiggaBellass "
+echo "\033[32;1mTULIS= BastianTamvanx-NitahSyank "
 read p;
 
 sleep 3
